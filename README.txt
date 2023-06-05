@@ -1,4 +1,4 @@
-This a LDAP server develop in Java. 
+This is a LDAP server developed in Java. 
 
 I created this project not to compete with Apache Directory (which I think you should use if you are looking for a java LDAP server) but to teach myself Java. The parser is handwritten (instead of using an ASN.1 compiler to generate code) and it's non-blocking, it uses Java NIO. 
 
